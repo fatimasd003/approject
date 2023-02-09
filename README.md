@@ -1,6 +1,6 @@
 # approject
 ### 
-!.Using jdk 8
+1.Using jdk 8
 2.Using javafx 17.02:https://openjfx.io/highlights/17/
 3.Using scene-builder:https://gluonhq.com/products/scene-builder/
 ##
